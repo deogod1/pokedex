@@ -1,6 +1,6 @@
 # pokedex
 
-A new Flutter project.
+teste de desenvolvimento de uma pokedex
 
 ## Getting Started
 
